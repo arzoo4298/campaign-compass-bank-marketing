@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the original dataset."
+title: "Campaign Compass: Find the Next Best Customer"
+authors:
+  - family-names: "Moro"
+    given-names: "Sérgio"
+  - family-names: "Laureano"
+    given-names: "Rita"
+  - family-names: "Cortez"
+    given-names: "Paulo"
+year: 2014
+doi: 10.24432/C5K306
+url: https://doi.org/10.24432/C5K306
+
