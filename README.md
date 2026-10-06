@@ -55,7 +55,7 @@ Run the SQL examples in `sql/exploration.sql` with DuckDB. They cover baseline c
 ├── data/                 # Local-only downloaded data (gitignored)
 ├── images/               # Generated charts
 ├── reports/              # Generated analysis outputs
-├── sql/                  # Portable exploration queries
+├── sql/                  # DuckDB exploration queries
 ├── src/analyze.py        # Data download, analysis, model, outputs
 ├── requirements.txt
 └── README.md
@@ -91,6 +91,7 @@ Python · pandas · SQL · scikit-learn · data quality checks · leakage-aware 
 ## Dataset attribution
 
 Data provided under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit Moro, Rita, and Cortez (2014), [Bank Marketing](https://doi.org/10.24432/C5K306), UCI Machine Learning Repository.
+
 
 
 
